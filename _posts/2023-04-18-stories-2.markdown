@@ -1,0 +1,8 @@
+---
+layout: default
+img: dog.png
+category: Stories
+title: Empower<br>Your career
+description: |
+---
+  Empower your career with The Futurepreneur, the leading platform for exploring the latest career opportunities for the youth
