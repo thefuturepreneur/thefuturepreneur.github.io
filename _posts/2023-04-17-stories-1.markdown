@@ -1,0 +1,8 @@
+---
+layout: default
+img: ipad.png
+category: Stories
+title: Discover:<br>Unconventional Careers
+description: |
+---
+  Discover the most promising and unconventional career paths that will help you achieve your goals and aspirations. 
