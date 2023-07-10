@@ -5,4 +5,4 @@ category: Stories
 title: Empower<br>Your career
 description: |
 ---
-  Empower your career with The Futurepreneur, the leading platform for exploring the latest career opportunities for the youth
+  [The Shepreneur Website](https://theshepreneurs.com) Empower your career with The Shepreneur, the leading platform for learning more about Leadership Principles. 
