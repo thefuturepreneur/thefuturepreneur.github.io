@@ -1,0 +1,9 @@
+---
+layout: default
+img: dog.png
+category: Stories
+title: Read<br>Interesting articles
+description: |
+---
+  [Quitting your 9-5 Job? ](https://awakenedrabbit.com/2023/07/15/quitting-your-9-5-job-and-things-to-consider/) Quitting your 9-5 job and things to consider <br>
+  [TedX talks to change your life](https://awakenedrabbit.com/2023/07/10/5-tedx-talks-that-could-change-your-life/) 5 TEDx talks that could change your life
